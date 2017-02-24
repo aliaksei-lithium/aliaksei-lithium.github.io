@@ -2,7 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://aliaksei-lithium.github.io/blog/</loc>
+    <lastmod>2017-02-25T16:40:37+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aliaksei-lithium.github.io/about/</loc>
+    <lastmod>2017-02-25T16:40:37+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aliaksei-lithium.github.io/post/start/</loc>
+    <lastmod>2017-02-17T16:40:37+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://aliaksei-lithium.github.io/</loc>
+    <lastmod>2017-02-17T16:40:37+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aliaksei-lithium.github.io/post/</loc>
+    <lastmod>2017-02-17T16:40:37+03:00</lastmod>
     <priority>0</priority>
   </url>
   
